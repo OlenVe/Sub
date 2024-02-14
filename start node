@@ -1,0 +1,4 @@
+-sudo atp subspace
+-sudo  create repo
+inst atp 
+inst docker
