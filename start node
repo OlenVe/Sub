@@ -5,3 +5,7 @@ inst docker
 4 peer  per 24 hours
 server fall down
 -sudo snap
+sudo systemclt restart subspace
+sudo systemctl restart subspace
+sudo systemctl restart subspaced
+sudo systemctl restart subspaced-farmer
