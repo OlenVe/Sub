@@ -9,3 +9,4 @@ sudo systemclt restart subspace
 sudo systemctl restart subspace
 sudo systemctl restart subspaced
 sudo systemctl restart subspaced-farmer
+sudo systemctl srats node 12.25
