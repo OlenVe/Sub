@@ -5,6 +5,7 @@ inst docker
 4 peer  per 24 hours
 server fall down
 -sudo snap
+- sudo update
 sudo systemclt restart subspace
 sudo systemctl restart subspace
 sudo systemctl restart subspaced
