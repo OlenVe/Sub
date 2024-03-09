@@ -10,4 +10,6 @@ sudo systemclt restart subspace
 sudo systemctl restart subspace
 sudo systemctl restart subspaced
 sudo systemctl restart subspaced-farmer
-sudo systemctl srats node 12.25
+sudo systemctl srats node 10.25
+roller 12 {import 23}
+waiting 43 all peer 24
