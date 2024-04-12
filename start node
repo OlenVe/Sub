@@ -8,8 +8,6 @@ inst docker
 server fall down
 -sudo snap
 - sudo update
-sudo systemclt restart subspace
-sudo systemctl restart subspace
 sudo systemctl restart subspaced
 sudo systemctl restart subspaced-farmer
 sudo systemctl srats node 10.25
