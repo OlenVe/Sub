@@ -18,4 +18,5 @@ waiting 43 all peer 24
 4 peer of top
 24 hours with hipe
 New rewards = +1
-reward = reward +0.5 day
+reward = reward +0.005 per dar
+- sudo restart farmer
