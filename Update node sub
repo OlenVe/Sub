@@ -1,7 +1,2 @@
 wget -O subspace_update.sh https://api.nodes.guru/subspace_update.sh && sudo chmod +x subspace_update.sh && ./subspace_update.sh
 wget -O subspace_update.sh - refresh
-last update 26/04
-last {fill}
-full disc.sh - refresh
-date = 08.05
-
