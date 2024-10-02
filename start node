@@ -2,3 +2,4 @@
 - refresh node start
 -sudo atp subspace
 -sudo  create repo
+-subspaced node off
